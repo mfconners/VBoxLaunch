@@ -3,7 +3,7 @@ This is based on a similar program by [Nic Bedford](http://nicbedford.co.uk/soft
 
 # Installation
 1. You need .Net v4.
-2. Download or build the program.
+2. [Download](https://github.com/git-tfs/git-tfs.git) or build the program.
 3. Copy VBoxLaunch.exe into a directory.
 4. Create a shortcut to the program.
 5. Put the shortcut in a place where your Start menu can see it.
